@@ -1,0 +1,77 @@
+
+.container{
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 100px;
+  
+
+}
+
+.containerImg{
+
+  display: flex;
+  gap: 100px;
+  height: 200px;
+
+}
+
+.Img{
+
+  width: 150px;
+  height: 150px;
+
+}
+
+.List{
+
+  list-style: none;
+  font-size: 100px;
+
+
+}
+
+.Title{
+
+  font-family: 'Poppins', sans-serif;
+ 
+
+}
+
+.B{
+
+  width: 150px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+  cursor: pointer;
+
+}
+
+.divList{
+
+  text-align: center;
+ 
+
+}
+
+.IconHome{
+
+  font-size: 40px;
+  margin-top: 15px;
+  margin-left: -350px;
+  
+  
+  
+
+}
+
+.Top{
+
+  display: flex;
+  justify-content: flex-start;
+  
+
+}

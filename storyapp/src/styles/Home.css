@@ -1,0 +1,44 @@
+.TitlesHome{
+
+    text-align: center;
+
+}
+
+.imgFromHome{
+
+    border-radius: 50%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+    width: 150px;
+    height: 150px;
+
+}
+
+.ContainerGames{
+
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.ContainerPai{
+
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+
+}
+
+.ContainerImgAndName{
+
+    text-align: center;
+    width: 150px;
+    height: 150px;
+
+}
+
+.Link{
+
+    text-decoration: none;
+    color: white;
+
+}
